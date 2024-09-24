@@ -14,13 +14,13 @@ let marks=[85,93,65,75,95,88];
 //     console.log(item);
 // }
 
-console.log(marks.push(96));
-console.log(marks.pop());
+// console.log(marks.push(96));
+// console.log(marks.pop());
 
-console.log(marks.toString());
+// console.log(marks.toString());
 
-marks.slice(2,5);
+// marks.slice(2,5);
 
-console.log(marks.splice(2,1,55));
-console.log(marks);
+// console.log(marks.splice(2,1,55));
+// console.log(marks);
 
